@@ -612,7 +612,6 @@ mod tests {
     use std::{collections::HashSet, fs::File};
 
     use pretty_assertions::assert_eq;
-    use tempfile::tempdir;
 
     use super::*;
 
