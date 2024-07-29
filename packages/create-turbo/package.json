@@ -29,7 +29,7 @@
     "picocolors": "1.0.1",
     "proxy-agent": "^6.2.2",
     "rimraf": "^3.0.2",
-    "semver": "^7.6.0",
+    "semver": "^7.6.1",
     "update-check": "^1.5.4"
   },
   "devDependencies": {

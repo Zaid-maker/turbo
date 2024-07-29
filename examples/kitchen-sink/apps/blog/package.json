@@ -30,7 +30,7 @@
     "autoprefixer": "^10.4.19",
     "eslint": "^8.38.0",
     "typescript": "^5.1.6",
-    "vite": "^5.2.8",
+    "vite": "^5.2.9",
     "vite-tsconfig-paths": "^4.2.1"
   },
   "engines": {
