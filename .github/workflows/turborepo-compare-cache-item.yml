@@ -61,7 +61,7 @@ jobs:
           pnpm dlx create-turbo@${{ inputs.version }} my-turborepo pnpm
 
       - name: Download cache artifacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: cache-item-${{ matrix.cache_os }}-${{ inputs.version }}
           path: my-turborepo
