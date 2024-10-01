@@ -104,7 +104,7 @@ tiny-gradient = { workspace = true }
 tokio = { workspace = true, features = ["full", "time"] }
 tokio-stream = { version = "0.1.12", features = ["net"] }
 tokio-util = { version = "0.7.7", features = ["compat"] }
-tonic = { version = "0.11.0", features = ["transport"] }
+tonic = { version = "0.12.2", features = ["transport"] }
 tower = "0.4.13"
 tracing-appender = "0.2.2"
 tracing-chrome = "0.7.1"

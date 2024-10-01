@@ -22,6 +22,6 @@ rayon = "1"
 rustc-demangle = "0.1"
 serde = { workspace = true }
 serde_json = { workspace = true }
-tungstenite = { version = "0.20.1" }
+tungstenite = { version = "0.24.0" }
 turbopack-trace-utils = { workspace = true }
 zstd = { version = "0.13.0" }
