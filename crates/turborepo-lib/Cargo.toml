@@ -84,7 +84,7 @@ path-clean = "1.0.1"
 petgraph = { workspace = true }
 pidlock = { path = "../turborepo-pidlock" }
 portable-pty = "0.8.1"
-pprof = { version = "0.12.1", features = [
+pprof = { version = "0.14.0", features = [
   "prost-codec",
   "frame-pointer",
 ], optional = true }
