@@ -22,7 +22,7 @@
   "dependencies": {
     "@vercel/blob": "^0.22.1",
     "copy-template-dir": "^1.4.0",
-    "esbuild": "^0.15.0",
+    "esbuild": "^0.25.0",
     "esbuild-register": "^3.3.2",
     "faker": "^5.1.0",
     "fs-extra": "^10.0.0",

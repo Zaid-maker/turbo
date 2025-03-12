@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "commander": "^11.0.0",
-    "tar": "6.1.13"
+    "tar": "6.2.1"
   },
   "devDependencies": {
     "@turbo/eslint-config": "workspace:*",
