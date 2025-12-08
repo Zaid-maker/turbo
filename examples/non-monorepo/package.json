@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "next": "15.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "turb": "^0.1.2"
   },
   "devDependencies": {
