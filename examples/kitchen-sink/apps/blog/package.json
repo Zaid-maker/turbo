@@ -13,7 +13,7 @@
   "dependencies": {
     "@remix-run/node": "^2.15.2",
     "@remix-run/react": "^2.15.2",
-    "@remix-run/server-runtime": "^2.15.2",
+    "@remix-run/server-runtime": "^2.17.3",
     "@repo/ui": "workspace:*",
     "@vercel/analytics": "^1.5.0",
     "@vercel/remix": "2.15.2",
